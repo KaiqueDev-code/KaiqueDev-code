@@ -5,7 +5,9 @@
 
 <div align="center">
   
-  ![Seu Nome](https://placehold.co/400x200/2a2e35/FFF?text=Kaique+Almeida&font=opensans)
+  ![Kaique Almeida - Developer](https://placehold.co/800x200/1e293b/FFFFFF?text=Kaique+Almeida&font=Montserrat&textSize=48)
+  
+  ![Role](https://placehold.co/800x50/1e293b/38bdf8?text=🚀+Aspiring+Developer+|+Data+Enthusiast&font=Montserrat&textSize=24)
   
 </div>
 
