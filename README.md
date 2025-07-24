@@ -68,7 +68,7 @@ Power BI • Docker
   <a href="https://www.linkedin.com/in/kaique-santana-de-almeida-97ba59314/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:seu-email@gmail.com">
+  <a href="mailto:kaiquesantanatrabalho@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
