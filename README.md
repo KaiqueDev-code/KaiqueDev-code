@@ -13,7 +13,7 @@
 Analista de Dados apaixonado por código, automações e tudo que envolva tecnologia.
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas – 3º semestre  
-- 💼 Jovem Aprendiz em Dados na Numen TI  
+- 💼 Jovem Aprendiz na Numen TI  
 - 🌍 Brasil  
 
 ---
