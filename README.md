@@ -21,10 +21,10 @@ Analista de Dados apaixonado por código, automações e tudo que envolva tecnol
 ## 🛠 Tech Stack & Ferramentas
 
 **Linguagens & Frameworks:**  
-Python • MySQL • Flask • Pandas • SMTP • Git
+Python • MySQL • Flask  • SMTP • Git
 
 **Estudando agora:**  
-Power BI • Docker
+Power BI • Docker • Pandas
 
 ---
 
