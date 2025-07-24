@@ -1,57 +1,81 @@
-# 🌌 Construindo meu universo dev linha por linha
+#  Kaique Santana — Unindo Dados & Desenvolvimento
 
-> "Dados são a linguagem do futuro, e eu estou aprendendo a falar fluentemente."  
-— Kaique S. Almeida
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KaiqueDev-code/KaiqueDev-code/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KaiqueDev-code/KaiqueDev-code/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KaiqueDev-code/KaiqueDev-code/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+---
+
+## 👨‍💻 Olá, eu sou o Kaique  
+Analista de Dados apaixonado por código, automações e tudo que envolva tecnologia.
+
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas – 2º semestre  
+- 💼 Jovem Aprendiz em Dados na Numen TI  
+- 🌍 Brasil  
+
+---
+
+## 🛠 Tech Stack & Ferramentas
+
+**Linguagens & Frameworks:**  
+Python • MySQL • Flask • Pandas • SMTP • Git
+
+**Estudando agora:**  
+Power BI • Docker
+
+---
+
+## 📊 Estatísticas & Destaques
 
 <div align="center">
-  
-  ![Kaique Almeida - Developer](https://placehold.co/800x200/1e293b/FFFFFF?text=Kaique+Almeida&font=Montserrat&textSize=48)
-  
-  ![Role](https://placehold.co/800x50/1e293b/38bdf8?text=🚀+Aspiring+Developer+|+Data+Enthusiast&font=Montserrat&textSize=24)
-  
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KaiqueDev-code&show_icons=true&theme=nightowl&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueDev-code&layout=compact&theme=nightowl&langs_count=7" />
 </div>
 
 ---
 
-## 👨‍💻 Sobre mim
 
-Sou um **estudante de Análise e Desenvolvimento de Sistemas** apaixonado por transformar dados em soluções. Atualmente:
 
-📚 2º Semestre na faculdade  
-📊 Jovem Aprendiz na [Numen](https://numenit.com.br/)  
-🐍 Construindo meu caminho em automação e análise de dados  
-🌱 Aprendendo algo novo todos os dias
+
+## 🌟 Repositórios em Destaque
+
+| Nome do Projeto       | Descrição rápida                                                       | Tech Stack                |
+|----------------------|----------------------------------------------------------------------|---------------------------|
+| **Controle-vendedores** | Sistema em Python para registro de vendedores, cálculo de comissões com base em faixas de venda, controle de carga horária e verificação de metas para bônus, utilizando interface em linha de comando. | Python                    |
+| **Bancos-de-dados**     | Documentação do progresso em aprendizagem sobre bancos de dados com anotações, projetos e exemplos práticos.                        | Bancos de Dados            |
+| **Jokenpo**             | Projeto básico em Python para treinar conhecimentos.                 | Python                    |
+| **DataViz Dashboard**   | Visualização de métricas                                             | Python, Pandas, Matplotlib|
 
 ---
 
-## 🛠 Stack Atual
 
-**Dominando:**
+## 🎯 Objetivos para 2025
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- [ ] Certificação em Data science 
+- [ ] Construir aplicação completa com Flask  
+- [x] Aprofundar em análise de dados  
+- [x] Certificação em Python  
 
-Explorando:
+---
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-🌟 Projetos Recentes
+## 📫 Vamos nos conectar?
 
-Sistema para controle de vendedores:
+<div align="center">
+  <a href="https://linkedin.com/in/seulinkedin" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn‑%230077B5?style=for‑the‑badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:seu@email.com">
+    <img src="https://img.shields.io/badge/Gmail‑D14836?style=for‑the‑badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
 
-Python, Pandas
+---
 
-Sistema completo de gestão de dados
+> *“Na jornada tecnológica, cada linha de código é um passo em direção ao futuro.”*  
+> **— Kaique S. Almeida**
 
-MySQL, Python
-
-🚀 Metas 2025
-✓ Dominar conceitos avançados de SQL
-✓ Criar meu primeiro projeto com Flask
-✓ Contribuir para open-source
-✓ Aprofundar em análise de dados
-
-📫 Vamos conversar?
-LinkedIn Gmail GitHub
+---
