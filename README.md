@@ -12,8 +12,8 @@
 ## 👨‍💻 Olá, eu sou o Kaique  
 Analista de Dados apaixonado por código, automações e tudo que envolva tecnologia.
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas – 3º semestre  
-- 💼 Jovem Aprendiz na Numen TI  
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas – 4º semestre  
+- 💼 Desenvolvedor na Numen TI  
 - 🌍 Brasil  
 
 ---
@@ -21,12 +21,8 @@ Analista de Dados apaixonado por código, automações e tudo que envolva tecnol
 ## 🛠 Tech Stack & Ferramentas
 
 **Linguagens & Frameworks:**  
-Python • MySQL • Flask  • SMTP • Git
+Python • MySQL • Flask  • SMTP • Git • CAP • JS • TS
 
-**Estudando agora:**  
-Power BI • Docker • Pandas
-
----
 
 ## 📊 Estatísticas & Destaques
 
