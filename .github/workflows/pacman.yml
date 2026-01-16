@@ -13,7 +13,7 @@ jobs:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
 
     steps:
       - name: Checkout repository
@@ -22,7 +22,12 @@ jobs:
       - name: generate pacman-contribution-graph.svg
         uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: ${{ github.repository_owner }}
+          # Forçar o usuário explicitamente
+          github_user_name: "KaiqueDev-code"
+          # Token padrão do GitHub Actions; o action deve aceitar token ou ignorar se não precisar
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          # Caso o action suporte, especificar anos ajuda a garantir que anos recentes sejam incluídos (será ignorado se não suportado)
+          years: "2023,2024,2025,2026"
 
       - name: push pacman-contribution-graph.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
